@@ -61,10 +61,8 @@
                  </div>
                  <div id='links'>
                      <a href="homePage.php">Home</a>
-                     <a href="login.php">Accedi</a>
                  </div>
                  <div id='menu'>
-                     <div></div>
                      <div></div>
                  </div>
                 </nav>

@@ -43,20 +43,20 @@ if(!isset($_SESSION["username"]))
     <section>
                 <div id='main'>
                     <h1> Sito che dà informazioni su chirurghi.</h1>
-                    <p>Qui potrai avere informazioni riguardo alcuni chirurghi di diverse zone d'Italia e non solo</br>
+                    <p>Qui potrai avere informazioni riguardo chirurghi presenti nel sito di diverse zone d'Italia e</br>
                     In particolare:</p>
                <ul>
-                   <li><span class='elenco'>elenco dei <a>chirurghi</a> presenti nel sito</span></li>
-                   <li><span class='elenco'>elenco degli <a>ospedali</a> dove lavorano i chirurghi</span></li>
-                   <li><span class='elenco'>Potrai trovare <a>immagini</a> aderenti alla salute/cura</span></li>
+                  <li><span class='elenco'>elenco dei chirurghi presenti nel sito</span></li>
+                   <li><span class='elenco'>elenco degli ospedali dove lavorano i chirurghi</span></li>
+                   <li><span class='elenco'>Potrai trovare immagini aderenti alla salute/cura</span></li>
                </ul>
                
                 <div id='image'>
                     <h2>Chirurghi</h2>
                     <div id='chirurgo'>
                         <img src='./images/img1.png'>
-                        <p>In questa sezione sarà possibile visualizzare l'elenco dei <b> chirurghi </b> registrati nel sito,</br>
-                           con i rispettivi reparti di appartenenza.</br>
+                        <p>In questa sezione sarà possibile visualizzare l'elenco dei <b> chirurghi </b> presenti nel database,</br>
+                            e alcuni informazioni utili.</br>
                             <br><a href='chirurghi.php'> CHIRURGHI </a></p>
                     </div>
                     <h2>Ospedale</h2>
